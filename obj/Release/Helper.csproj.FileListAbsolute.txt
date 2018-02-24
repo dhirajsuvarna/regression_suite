@@ -1,4 +1,0 @@
-F:\Projects\regression_suite\regression_test_suite\bin\Release\Helper.dll
-F:\Projects\regression_suite\regression_test_suite\bin\Release\Helper.pdb
-F:\Projects\regression_suite\regression_test_suite\obj\Release\Helper.dll
-F:\Projects\regression_suite\regression_test_suite\obj\Release\Helper.pdb

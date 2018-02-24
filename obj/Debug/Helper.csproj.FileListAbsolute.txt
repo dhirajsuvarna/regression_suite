@@ -1,5 +1,0 @@
-F:\Projects\regression_suite\regression_test_suite\bin\Debug\Helper.dll
-F:\Projects\regression_suite\regression_test_suite\bin\Debug\Helper.pdb
-F:\Projects\regression_suite\regression_test_suite\obj\Debug\Helper.csprojResolveAssemblyReference.cache
-F:\Projects\regression_suite\regression_test_suite\obj\Debug\Helper.dll
-F:\Projects\regression_suite\regression_test_suite\obj\Debug\Helper.pdb

@@ -1,9 +1,0 @@
-F:\Projects\regression_suite\regression_test_suite\bin\Release\JarvisRegressionSuite.exe.config
-F:\Projects\regression_suite\regression_test_suite\bin\Release\JarvisRegressionSuite.exe
-F:\Projects\regression_suite\regression_test_suite\bin\Release\JarvisRegressionSuite.pdb
-F:\Projects\regression_suite\regression_test_suite\obj\Release\regression_test_suite.HomeForm.resources
-F:\Projects\regression_suite\regression_test_suite\obj\Release\regression_test_suite.PreferenceForm.resources
-F:\Projects\regression_suite\regression_test_suite\obj\Release\regression_test_suite.Properties.Resources.resources
-F:\Projects\regression_suite\regression_test_suite\obj\Release\JarvisRegressionSuite.csproj.GenerateResource.Cache
-F:\Projects\regression_suite\regression_test_suite\obj\Release\JarvisRegressionSuite.exe
-F:\Projects\regression_suite\regression_test_suite\obj\Release\JarvisRegressionSuite.pdb
