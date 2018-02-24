@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="regression_test_suite.BackupStep" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\BackupStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.CompareFolderStep" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAQAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\CompareFolderStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.CopyStep" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAAAAQAAAAAAACAAAAQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Logic\CopyStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.DeleteStep" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\DeleteStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.InstallStep" Collapsed="true">
+    <Position X="30.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQACAAAAAAAAAAQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Logic\InstallStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.LicenseSetupStep" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Logic\LicenseSetupStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.ProcessHelper" Collapsed="true">
+    <Position X="35.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Logic\ProcessHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.RegisterDFMProStep" Collapsed="true">
+    <Position X="19.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\RegisterDFMProStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.SendEmail" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\SendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.Step" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAhQAEAAAAAAQAIgAACEQAgAAAAyQBQAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Step.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="regression_test_suite.StepEventArgs" Collapsed="true">
+    <Position X="37.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.StepProgressEventArgs" Collapsed="true">
+    <Position X="37.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.StepFailedEventArgs" Collapsed="true">
+    <Position X="35.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAAAAAAAAgAEAAIABAACAAQAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.SVNUpdateStep" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\SVNUpdateStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.TestingStep" Collapsed="true">
+    <Position X="28.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\TestingStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.UnInstallStep" Collapsed="true">
+    <Position X="33" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQACAAAAAAAAAAQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Logic\UnInstallStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.UnzipStep" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAQQAACAQAQAAAAAAAAACAAA=</HashCode>
+      <FileName>Logic\UnzipStep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.HomeForm" Collapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xAEAAIABAKCAABCCABCACAAWBAAAAAIMIIwAEB4EAAA=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.Program" Collapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.Properties.Regression" Collapsed="true">
+    <Position X="41.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAQAAFAAABAAAERAEAIIAAICABAEAAQACEACAACAU=</HashCode>
+      <FileName>Properties\Regression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.Properties.Resources" Collapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regression_test_suite.Properties.Settings" Collapsed="true">
+    <Position X="41.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="regression_test_suite.eStatus" Collapsed="true">
+    <Position X="35.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAAAAAARAgA=</HashCode>
+      <FileName>Logic\Step.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="regression_test_suite.StepEventHandler" Collapsed="true">
+    <Position X="35.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="regression_test_suite.StepProgressEventHandler" Collapsed="true">
+    <Position X="35.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="regression_test_suite.StepFailedEventHandler" Collapsed="true">
+    <Position X="37.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\StepEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

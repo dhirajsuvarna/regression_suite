@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="testing_cost.Properties" GeneratedClassName="Location">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaselineFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\baseline\creo3.0</Value>
+    </Setting>
+    <Setting Name="PartsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\parts\creo3.0</Value>
+    </Setting>
+    <Setting Name="RuleFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\rulefile</Value>
+    </Setting>
+    <Setting Name="LogFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\logs</Value>
+    </Setting>
+    <Setting Name="ShouldCostReport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\inputcsv\creo3.0\SC_vs_CreoCost_Comparision_Report.xlsx</Value>
+    </Setting>
+    <Setting Name="SelectedTestFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SelectedAppFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BackupFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\test_results_backup</Value>
+    </Setting>
+    <Setting Name="DiffTool" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WinMerge</Value>
+    </Setting>
+    <Setting Name="TemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\templates</Value>
+    </Setting>
+    <Setting Name="ReportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\reports</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

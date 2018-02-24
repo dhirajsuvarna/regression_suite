@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="regression_test_suite.Properties" GeneratedClassName="Regression">
+  <Profiles />
+  <Settings>
+    <Setting Name="DFMProInstallerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\dhiraj_work\build_installer</Value>
+    </Setting>
+    <Setting Name="CostAddonInstallerPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\dhiraj_work\build_installer</Value>
+    </Setting>
+    <Setting Name="CostAddonMSIPackageName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CreoCost_x64.msi</Value>
+    </Setting>
+    <Setting Name="InstallerCopyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\installers</Value>
+    </Setting>
+    <Setting Name="LogFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\logs</Value>
+    </Setting>
+    <Setting Name="ScriptsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\scripts\Creo3.0</Value>
+    </Setting>
+    <Setting Name="PartsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\parts\creo3.0</Value>
+    </Setting>
+    <Setting Name="BaselineFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\baseline\creo3.0</Value>
+    </Setting>
+    <Setting Name="DFMMSIPackageName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DFMProForCreoParametric3_0_x64.msi</Value>
+    </Setting>
+    <Setting Name="RegFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\reg</Value>
+    </Setting>
+    <Setting Name="TestAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\testapp</Value>
+    </Setting>
+    <Setting Name="RuleFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\rulefile</Value>
+    </Setting>
+    <Setting Name="DFMInstallLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Geometric\DFMPro for Creo Parametric(x64)</Value>
+    </Setting>
+    <Setting Name="DFMTestAppName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DFMProETestApplication.exe</Value>
+    </Setting>
+    <Setting Name="DFMProLicenseFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\DFM_LICENSE\Geometric_PUN-NITISHG_20170322102937_CPD_123456.lic</Value>
+    </Setting>
+    <Setting Name="TestResultsBackup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\results_backup</Value>
+    </Setting>
+    <Setting Name="RegressionInputFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\inputcsv\creo3.0\Regression_Test_Cases.xlsx</Value>
+    </Setting>
+    <Setting Name="DFMProductName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DFMPro for Creo Parametric(x64)</Value>
+    </Setting>
+    <Setting Name="CostProductName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DFMPro for Creo Parametric-Cost add-on</Value>
+    </Setting>
+    <Setting Name="LicenseServerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\DFM Pro License Server</Value>
+    </Setting>
+    <Setting Name="LicenseServiceName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GSSL DFMPro License Server</Value>
+    </Setting>
+    <Setting Name="SMTPServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.98.134.26</Value>
+    </Setting>
+    <Setting Name="SMTPPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="EmailFromAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cost.dev@hcl.com</Value>
+    </Setting>
+    <Setting Name="EmailDisplayName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Jarvis</Value>
+    </Setting>
+    <Setting Name="TemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\templates</Value>
+    </Setting>
+    <Setting Name="ReportPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\..\..\reports</Value>
+    </Setting>
+    <Setting Name="SharedPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\pun-nitishg\creocost</Value>
+    </Setting>
+    <Setting Name="LocalRegPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\dhiraj_work\tester\creocost</Value>
+    </Setting>
+    <Setting Name="MTIRegistryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SOFTWARE\MTI Systems\14</Value>
+    </Setting>
+    <Setting Name="LicenseServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pun-venus</Value>
+    </Setting>
+    <Setting Name="DFMInstallerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DFMProForCreoParametric_v5.2_x64_Setup_Creo3.exe</Value>
+    </Setting>
+    <Setting Name="CostAddonInstallerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DFMProforCreo_Cost_add-on_v5.2_x64_Setup_Creo3.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

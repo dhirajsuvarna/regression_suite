@@ -1,0 +1,12 @@
+F:\Projects\regression_suite\regression_test_suite\bin\Debug\JarvisTestExecuter.exe.config
+F:\Projects\regression_suite\regression_test_suite\bin\Debug\JarvisTestExecuter.exe
+F:\Projects\regression_suite\regression_test_suite\bin\Debug\JarvisTestExecuter.pdb
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\JarvisTestExecuter.csprojResolveAssemblyReference.cache
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\JarvisTestExecuter.csproj.ResolveComReference.cache
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\testing_cost.PreferencesForm.resources
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\testing_cost.Properties.Resources.resources
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\testing_cost.TestCasesForm.resources
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\JarvisTestExecuter.csproj.GenerateResource.Cache
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\JarvisTestExecuter.exe
+F:\Projects\regression_suite\regression_test_suite\obj\Debug\JarvisTestExecuter.pdb
